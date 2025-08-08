@@ -38,5 +38,4 @@ This repository contains solutions for a data analysis task using the **Austin B
 
 ---
 
-## 📁 Structure
 
